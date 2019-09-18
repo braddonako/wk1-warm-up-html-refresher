@@ -1,0 +1,34 @@
+h1 {
+	text-align: center;
+	color: #67989A;
+	padding: 15px;
+	font-size: 3em;
+}
+
+h2, h3, h4{
+	text-align: center;
+	color: #236467;
+	font-size: 2em;
+}
+
+img {
+	display: block;
+	margin: auto;
+	padding-bottom: 50px;
+}
+
+header {
+	background-color: #236467;
+}
+
+body {
+	background-color: #67989A;
+}
+
+footer {
+	background-color: #236467;
+	padding: 1px;
+}
+.footer {
+	color: #67989A;
+}
